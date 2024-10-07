@@ -27,5 +27,7 @@ Cette application Java vise à gérer la hiérarchie et les informations des emp
 1. Configurer le fichier `base.properties` en adaptant les informations de connexion à votre base MySQL.
 2. Importer le projet dans un IDE compatible.
 3. Exécuter la classe `Entreprise` pour créer des employés et visualiser les résultats.
+
+ 
  https://github.com/user-attachments/assets/10973f9b-4e29-4a6b-ae01-de31ef2d3b03
 
