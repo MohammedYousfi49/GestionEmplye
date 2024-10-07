@@ -22,6 +22,10 @@ Cette application Java vise à gérer la hiérarchie et les informations des emp
 - **Création** d'employés (directeur, manager, développeur).
 - **Gestion** des relations hiérarchiques.
 - **Affichage** des informations organisées par hiérarchie.
+- 
+https://github.com/user-attachments/assets/10973f9b-4e29-4a6b-ae01-de31ef2d3b03
+
+
 
 ## Installation et utilisation
 1. Configurer le fichier `base.properties` en adaptant les informations de connexion à votre base MySQL.
